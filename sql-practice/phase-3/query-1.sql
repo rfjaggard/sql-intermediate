@@ -1,2 +1,2 @@
 -- Find Hermione's cats
--- Your code here 
+SELECT cats.name, owners.first_name
